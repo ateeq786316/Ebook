@@ -193,7 +193,8 @@ Ayesha Shabbir
 🔹 Work: UI Design, ReactNative Components.
 
 **Ateeq** - Full Stack Developer
-- **GitHub**: [@ateeq-dev](https://github.com/ateeq-dev)
+- **GitHub**: [@ateeq-dev](https://github.com/ateeq-dev).
+  
 **Ayesha** - Front end Developer
 - **GitHub**: [@ayesha-dev](https://github.com/ayesha466)
 
@@ -246,5 +247,6 @@ Ayesha Shabbir
 
 
 ⭐ **Star this repository if you find it helpful!**
+
 
 
