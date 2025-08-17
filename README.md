@@ -182,11 +182,21 @@ npm run web
 2. **App Store Submission** - Submit to Google Play Store and Apple App Store
 3. **OTA Updates** - Configure Expo updates for seamless app updates
 
+👥 Team Contributions
 ## 👥 Developed By
+Ateeq ur Rehman
+🔹 Role: Full-Stack Developer
+🔹 Work: Backend APIs, Auth system, Database integration
+
+Ayesha Shabbir
+🔹 Role: Frontend Developer
+🔹 Work: UI Design, ReactNative Components.
 
 **Ateeq** - Full Stack Developer
 - **GitHub**: [@ateeq-dev](https://github.com/ateeq-dev)
-- **Portfolio**: [MERN Portfolio](https://github.com/ateeq-dev/mern-portfolio)
+**Ayesha** - Front end Developer
+- - **GitHub**: [@ayesha-dev](https://github.com/ayesha466)
+
 
 ## 🧠 Challenges Solved
 
@@ -236,3 +246,4 @@ npm run web
 
 
 ⭐ **Star this repository if you find it helpful!**
+
