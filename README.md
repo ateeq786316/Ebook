@@ -70,11 +70,11 @@ Smart AI Ebook App is a full-stack mobile application that revolutionizes the wa
 
 | Splash Screen | Get Started | Login Screen |
 |---------------|-------------|--------------|
-| ![Splash Screen](https://github.com/user-attachments/assets/bdfb6244-e3d1-4029-b340-b0571ec0a2a1) | ![Get Started](https://github.com/user-attachments/assets/340201f7-d70d-4e1f-abe5-9a6c8c999755) | ![Login](https://github.com/user-attachments/assets/4a32518b-3314-43fa-82f5-9fa68c80bea5) |
+| ![Splash Screen](https://github.com/user-attachments/assets/bdfb6244-e3d1-4029-b340-b0571ec0a2a1) | ![Get Started](https://github.com/user-attachments/assets/340201f7-d70d-4e1f-abe5-9a6c8c999755) | ![Login](https://github.com/user-attachments/assets/4a32518b-3314-43fa-82f5-8fa68c80bea5) |
 
 | Forget Password | Signup Screen | Choose Mode |
 |-----------------|---------------|-------------|
-| ![Forget Password](https://github.com/user-attachments/assets/9f2feb2b-bb3f-43db-93f2-53071194004b) | ![Signup](https://github.com/user-attachments/assets/d3a33751-0182-4aa0-ad81-ad7bc41d0212) | ![Choose Mode](https://github.com/user-attachments/assets/e375a5c6-4050-49d4-9017-a6f94d0df5a3) |
+| ![Forget Password](https://github.com/user-attachments/assets/9e2feb2b-bb3f-43db-93f2-53071194004b) | ![Signup](https://github.com/user-attachments/assets/d3a33751-0182-4aa0-ad81-ad7bc41d0212) | ![Choose Mode](https://github.com/user-attachments/assets/e375a5c6-4050-49d4-9017-a6f94d0df5a3) |
 
 | Book Reading | Book Writing | AI Create Book |
 |--------------|--------------|----------------|
