@@ -185,12 +185,12 @@ npm run web
 👥 Team Contributions
 ## 👥 Developed By
 ## Ateeq ur Rehman.
-## 🔹 Role: Full-Stack Developer.
-## 🔹 Work: Backend APIs, Auth system, Database integration.
+🔹 Role: Full-Stack Developer.
+🔹 Work: Backend APIs, Auth system, Database integration.
 
 ## Ayesha Shabbir.
-## 🔹 Role: Frontend Developer.
-## 🔹 Work: UI Design, ReactNative Components.
+ 🔹 Role: Frontend Developer.
+ 🔹 Work: UI Design, ReactNative Components.
 
 **Ateeq** - Full Stack Developer
 - **GitHub**: [@ateeq-dev](https://github.com/ateeq-dev).
@@ -247,6 +247,7 @@ npm run web
 
 
 ⭐ **Star this repository if you find it helpful!**
+
 
 
 
