@@ -195,7 +195,7 @@ Ayesha Shabbir
 **Ateeq** - Full Stack Developer
 - **GitHub**: [@ateeq-dev](https://github.com/ateeq-dev)
 **Ayesha** - Front end Developer
-- - **GitHub**: [@ayesha-dev](https://github.com/ayesha466)
+- **GitHub**: [@ayesha-dev](https://github.com/ayesha466)
 
 
 ## 🧠 Challenges Solved
@@ -246,4 +246,5 @@ Ayesha Shabbir
 
 
 ⭐ **Star this repository if you find it helpful!**
+
 
